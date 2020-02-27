@@ -1,10 +1,5 @@
 
 
-Used react-native-web to write the UI instead of html tags.
-
-I wrote a detailed post on why I created rey here: https://www.reddit.com/r/Music/comments/8sxjxo/rey_reimagined_youtube_music_player_for_desktop_i/
-
-## Config
 
 Create 'firebase.js' in ./src/config/ with your project config from console.firebase.com
 
