@@ -1,0 +1,20 @@
+.action-icon {
+    cursor: pointer;
+    fill: white;
+    width: auto;
+    height: 30px;
+}
+.action-icon :hover {
+    fill: var(--accent-color);
+}
+
+.action-icon-delete {
+    cursor: pointer;
+    fill: white;
+    width: auto;
+    height: 30px;
+}
+
+.action-icon-delete :hover {
+    fill: red;
+}
