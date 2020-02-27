@@ -28,7 +28,8 @@
     "react-scripts": "1.1.4",
     "react-svg": "^4.0.17",
     "shortid": "^2.2.8",
-    "store": "^2.0.12"
+    "store": "^2.0.12",
+    "node":"^10.16.0"
   },
   "scripts": {
     "analyze": "source-map-explorer build/static/js/main.*",
